@@ -1,6 +1,6 @@
 # My Projects
 
-Here is a list of projects that I am working on:
+Here is a list of projects that I am working on at the moment:
 
 <ul>
 
